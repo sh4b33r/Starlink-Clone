@@ -412,7 +412,8 @@ float: left;
 .txt-btn2 button:hover{
      background-color: rgb(184, 184, 184);
 }
-.contain9 h3:hover{olor: goldenrod;
+.contain9 h3:hover{
+    color: goldenrod;
     cursor: pointer;
 
 }
